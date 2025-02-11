@@ -58,6 +58,4 @@ The dataset I used is called emotions and the model was BERT. Used Google colab 
         </tr>
     </table>
 
-    <h2> Confusion Matrix </h2
-
-    
+[![cm.png](https://i.postimg.cc/1XbpD5BW/cm.png)](https://postimg.cc/D4dJThts)
