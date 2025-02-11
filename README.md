@@ -58,9 +58,6 @@ The dataset I used is called emotions and the model was BERT. Used Google colab 
         </tr>
     </table>
 
-<p align="center">
-  <img src="https://i.postimg.cc/D4dJThts/cm.png" alt="Confusion Matrix" width="45%">
-  <img src="https://i.postimg.cc/234BvdV6/curve.png" alt="AUC-ROC Curve" width="45%">
-</p>
+    <h2> Confusion Matrix </h2
 
     
