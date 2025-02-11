@@ -1,5 +1,9 @@
 # CSE_495B_Sentiment_Analysis
 Extracting sentiments from user reviews using NLP models. Contains 6 different types of sentiments. 
+The dataset I used is called emotions and the model was BERT
+Used Google colab T4 GPU to run the project. 
+
+<h2>Validation Scores are given below in the table: </h2>
 <table>
         <tr>
             <th>Epoch</th>
